@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.kaggle-env/
+.kaggle/
+
+# Jupyter Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# Kaggle API credentials
+kaggle.json
+
+# Dataset downloads
+*.zip
+*.csv
+*.json
+*.tsv
+*.parquet
+*.h5
+*.npy
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# VSCode or PyCharm configs
+.vscode/
+.idea/
+
