@@ -36,3 +36,8 @@ kaggle.json
 .vscode/
 .idea/
 
+# Allow homework outputs
+!src/homework/hwzips/
+!src/homework/hwzips/*
+!src/homework/hwzips.zip
+
