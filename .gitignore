@@ -26,6 +26,7 @@ kaggle.json
 *.parquet
 *.h5
 *.npy
+*.html
 mmlupro_overview.html
 
 # Logs and outputs
