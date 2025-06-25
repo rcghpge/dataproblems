@@ -27,7 +27,6 @@ kaggle.json
 *.h5
 *.npy
 *.html
-mmlupro_overview.html
 
 # Logs and outputs
 *.log
@@ -42,4 +41,4 @@ mmlupro_overview.html
 !src/homework/hwzips/
 !src/homework/hwzips/*
 !src/homework/hwzips.zip
-
+!docs/*.html
