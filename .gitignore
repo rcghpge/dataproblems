@@ -18,7 +18,7 @@ env/
 # Kaggle API credentials
 kaggle.json
 
-# Dataset downloads
+# Dataset downloads + frontend stuff
 *.zip
 *.csv
 *.json
@@ -26,6 +26,7 @@ kaggle.json
 *.parquet
 *.h5
 *.npy
+mmlupro_overview.html
 
 # Logs and outputs
 *.log
