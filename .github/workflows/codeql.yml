@@ -43,11 +43,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-        - language: |
-            c-cpp
-            bash
-            python
-            javascript-typescript
+        - language: [ 'c-cpp', 'bash', 'python', 'javascript-typescript' ]
           build-mode: manual
         # CodeQL supports the following values keywords for 'language': 'actions', 'c-cpp', 'csharp', 'go', 'java-kotlin', 'javascript-typescript', 'python', 'ruby', 'swift'
         # Use `c-cpp` to analyze code written in C, C++ or both
