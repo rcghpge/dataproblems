@@ -27,6 +27,7 @@ kaggle.json
 *.h5
 *.npy
 *.html
+math_dataset/
 
 # Logs and outputs
 *.log
