@@ -28,6 +28,7 @@ kaggle.json
 *.npy
 *.html
 math_dataset/
+math/
 
 # Logs and outputs
 *.log
@@ -40,3 +41,13 @@ math_dataset/
 
 # Allow assignment outputs
 !docs/*.html
+*.zip
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+models/
+checkpoints/
+artifacts/
