@@ -1,5 +1,1 @@
-# Shell scripts
-*.sh linguist-language=Shell
 
-# Set .ipynb files as documentation (if they are primarily for explanation)
-*.ipynb linguist-documentation
