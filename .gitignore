@@ -28,11 +28,12 @@ kaggle.json
 *.h5
 *.npy
 *.html
+*.xlsx
+
+# assignments and project data
 math_dataset/
-<<<<<<< HEAD
 math/
-=======
->>>>>>> main/main
+hwzips/
 
 # Logs and outputs
 *.log
@@ -43,23 +44,5 @@ math/
 .vscode/
 .idea/
 
-<<<<<<< HEAD
-# Allow assignment outputs
-!docs/*.html
-*.zip
-
-# Model weights
-*.pt
-*.pth
-*.ckpt
-*.h5
-models/
-checkpoints/
-artifacts/
-=======
 # Allow homework outputs
-!src/homework/hwzips/
-!src/homework/hwzips/*
-!src/homework/hwzips.zip
 !docs/*.html
->>>>>>> main/main
