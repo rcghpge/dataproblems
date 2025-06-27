@@ -5,6 +5,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+*.joblib
 
 # Virtual environments
 venv/
@@ -28,7 +29,10 @@ kaggle.json
 *.npy
 *.html
 math_dataset/
+<<<<<<< HEAD
 math/
+=======
+>>>>>>> main/main
 
 # Logs and outputs
 *.log
@@ -39,6 +43,7 @@ math/
 .vscode/
 .idea/
 
+<<<<<<< HEAD
 # Allow assignment outputs
 !docs/*.html
 *.zip
@@ -51,3 +56,10 @@ math/
 models/
 checkpoints/
 artifacts/
+=======
+# Allow homework outputs
+!src/homework/hwzips/
+!src/homework/hwzips/*
+!src/homework/hwzips.zip
+!docs/*.html
+>>>>>>> main/main
