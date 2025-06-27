@@ -3,3 +3,5 @@
 
 # Set .ipynb files as documentation (if they are primarily for explanation)
 *.ipynb linguist-documentation
+*.pt !text !filter !merge !diff
+*.ckpt !text !filter !merge !diff

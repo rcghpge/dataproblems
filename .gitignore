@@ -38,8 +38,5 @@ math_dataset/
 .vscode/
 .idea/
 
-# Allow homework outputs
-!src/homework/hwzips/
-!src/homework/hwzips/*
-!src/homework/hwzips.zip
+# Allow assignment outputs
 !docs/*.html
