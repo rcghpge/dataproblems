@@ -1,8 +1,5 @@
 # Shell scripts
 *.sh linguist-language=Shell
+
 # Set .ipynb files as documentation (if they are primarily for explanation)
 *.ipynb linguist-documentation
-*.ext filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.pt !text !filter !merge !diff
-*.ckpt !text !filter !merge !diff
