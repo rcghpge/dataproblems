@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>DATA-4380 UTA Summer 2025</title>
+    <title>UTA Machine Learning</title>
     <style>
       body {
         text-align: center;
-        margin-top: 50px;
+        margin: 0;
+        padding: 0;
         background-color: #0054A6; /* UTA blue */
         color: white;
         font-family: Arial, sans-serif;
@@ -13,6 +14,8 @@
 
       h1 {
         color: #F47821; /* UTA orange */
+        margin-top: 40px;
+        font-size: 2.5em;
       }
 
       a {
@@ -22,28 +25,55 @@
         background-color: #F47821;
         padding: 10px 20px;
         border-radius: 5px;
+        display: inline-block;
+        transition: background-color 0.3s, transform 0.2s;
       }
 
       a:hover {
         background-color: #d0621c;
+        transform: scale(1.05);
+      }
+
+      embed {
+        width: 90%;
+        max-width: 550px;
+        height: auto;
+        margin-top: 20px;
       }
 
       footer {
-        margin-top: 50px;
+        margin-top: 40px;
         padding: 20px;
         font-size: 14px;
       }
 
-       
+      /* Override footer link specifically */
       footer a {
         background-color: transparent;
         padding: 0;
         color: #F47821;
+        transition: color 0.3s, text-decoration 0.3s;
       }
 
       footer a:hover {
+        color: #ffa347;
         text-decoration: underline;
-        background-color: transparent;
+      }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        h1 {
+          font-size: 1.8em;
+        }
+
+        a {
+          padding: 8px 16px;
+          font-size: 16px;
+        }
+
+        embed {
+          width: 95%;
+        }
       }
     </style>
   </head>
@@ -51,7 +81,7 @@
     <h1>Machine Learning @ UTA</h1>
 
     <!-- Logo -->
-    <embed src="uta.pdf" type="application/pdf" width="550" height="550" />
+    <embed src="uta.pdf" type="application/pdf" />
 
     <p style="margin-top: 30px;">
       <a href="mmlupro_overview.html">View Current NLP Research @ UTA</a>
