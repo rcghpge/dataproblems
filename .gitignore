@@ -19,7 +19,7 @@ env/
 # Kaggle API credentials
 kaggle.json
 
-# Dataset downloads + frontend stuff
+# Dataset downloads
 *.zip
 *.csv
 *.json
@@ -30,10 +30,11 @@ kaggle.json
 *.html
 *.xlsx
 
-# assignments and project data
+# assignments and project stuff
 math_dataset/
 math/
 hwzips/
+sandbox/
 
 # Logs and outputs
 *.log
