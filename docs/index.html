@@ -1,40 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>UTA Machine Learning</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
       body {
-        text-align: center;
-        margin-top: 50px;
-        background-color: #0064B1; /* UTA blue */
+        margin: 0;
+        background-color: #0064B1; 
         color: white;
         font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        text-align: center;
       }
 
       h1 {
-        color: #F58025; /* UTA orange */
+        color: #F58025; 
+        margin-top: 20px;
+        margin-bottom: 20px;
       }
 
-      a {
+      embed {
+        max-width: 90%;
+        height: auto;
+        margin: 20px 0;
+      }
+
+      a.button-link {
+        display: inline-block;
         color: #ffffff;
         font-weight: bold;
         text-decoration: none;
         background-color: #F58025;
         padding: 10px 20px;
         border-radius: 5px;
+        margin-top: 20px;
       }
 
-      a:hover {
+      a.button-link:hover {
         background-color: #d0621c;
       }
 
       footer {
-        margin-top: 50px;
+        margin-top: 40px;
         padding: 20px;
         font-size: 14px;
       }
 
-      
       footer a {
         background-color: transparent;
         padding: 0;
@@ -43,22 +58,19 @@
 
       footer a:hover {
         text-decoration: underline;
-        background-color: transparent;
       }
     </style>
   </head>
   <body>
     <h1>Machine Learning @ UTA</h1>
 
-    <!-- Logo -->
+    <!-- Logo PDF -->
     <embed src="uta.pdf" type="application/pdf" width="550" height="550" />
 
-    <p style="margin-top: 30px;">
-      <a href="mmlupro_overview.html">View Current NLP Research @ UTA</a>
-    </p>
+    <a href="mmlupro_overview.html" class="button-link">View Current NLP Research @ UTA</a>
 
     <!-- Footer -->
-    <footer id="footer">
+    <footer>
       <p>&copy; <a href="https://youtu.be/dQw4w9WgXcQ?si=EQdIrn1Fo67qRcui">2025</a> Robert Cocker</p>
     </footer>
   </body>
