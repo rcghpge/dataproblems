@@ -47,3 +47,5 @@ sandbox/
 
 # Allow homework outputs
 !docs/*.html
+# pixi environments
+.pixi
