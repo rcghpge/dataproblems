@@ -35,6 +35,8 @@ math_dataset/
 math/
 hwzips/
 sandbox/
+PetImages/
+*.keras
 
 # Logs and outputs
 *.log
@@ -47,5 +49,6 @@ sandbox/
 
 # Allow homework outputs
 !docs/*.html
+
 # pixi environments
 .pixi

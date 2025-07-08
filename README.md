@@ -3,3 +3,6 @@
 [![CodeQL Advanced](https://github.com/rcghpge/dataproblems/actions/workflows/codeql.yml/badge.svg)](https://github.com/rcghpge/dataproblems/actions/workflows/codeql.yml)
 [![Bandit](https://github.com/rcghpge/dataproblems/actions/workflows/bandit.yml/badge.svg)](https://github.com/rcghpge/dataproblems/actions/workflows/bandit.yml)
 [![pages-build-deployment](https://github.com/rcghpge/dataproblems/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rcghpge/dataproblems/actions/workflows/pages/pages-build-deployment)
+
+
+See `src/` directory hw + projects if not in root directory.
