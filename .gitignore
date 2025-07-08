@@ -29,6 +29,8 @@ kaggle.json
 *.npy
 *.html
 *.xlsx
+*.jpg
+*.rar
 
 # assignments and project stuff
 math_dataset/
