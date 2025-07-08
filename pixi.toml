@@ -13,7 +13,8 @@ seaborn = ">=0.13.2,<0.14"
 matplotlib = ">=3.10.3,<4"
 pandas = ">=2.3.0,<3"
 scikit-learn = ">=1.7.0,<2"
-modular = ">=25.5.0.dev2025070705,<26"
-max = ">=25.5.0.dev2025070705,<26"
-max-pipelines = ">=25.5.0.dev2025070705,<26"
-keras = ">=3.10.0,<4"
+python = "3.11.*"
+tensorflow = ">=2.18.0,<3"
+
+[pypi-dependencies]
+tensorflow-keras = ">=0.1, <0.2"
