@@ -16,7 +16,7 @@ def create_generators(data_dir, img_size=(224, 224), batch_size=32, val_split=0.
         data_dir,
         target_size=img_size,
         batch_size=batch_size,
-        class_mode='categorical',
+        class_mode='binary',
         subset='training',
         shuffle=True,
         seed=42,
@@ -25,9 +25,9 @@ def create_generators(data_dir, img_size=(224, 224), batch_size=32, val_split=0.
         data_dir,
         target_size=img_size,
         batch_size=batch_size,
-        class_mode='categorical',
+        class_mode='binary',
         subset='validation',
-        shuffle=True,
+        shuffle=False,
         seed=42,
     )
     return train_gen, val_gen
