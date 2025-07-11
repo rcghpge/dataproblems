@@ -5,4 +5,13 @@
 [![pages-build-deployment](https://github.com/rcghpge/dataproblems/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rcghpge/dataproblems/actions/workflows/pages/pages-build-deployment)
 
 
-See `src/` directory hw + projects if not in root directory.
+See `src/` directory hw + projects if not in root directory. Initial README draft.
+
+---
+## Citations & Acknowledgements
+
+If you use this repository, please also consider citing the following works:
+
+- Saxton et al., "The DeepMind Mathematics Dataset", arXiv:1904.01557. https://arxiv.org/abs/1904.01557
+- Gervais et al., "MathWriting: A Dataset for Handwritten Mathematical Expression Recognition", arXiv:2404.10690. https://arxiv.org/abs/2404.10690
+
