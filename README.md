@@ -12,6 +12,6 @@ See `src/` directory hw + projects if not in root directory. Initial README draf
 
 If you found this repository helpful, please also consider citing the following works:
 
-- Saxton et al., "The DeepMind Mathematics Dataset", arXiv:1904.01557. https://arxiv.org/abs/1904.01557
+- Saxton et al., "Analysing Mathematical Reasoning Abilities of Neural Models", arXiv:1904.01557. https://arxiv.org/abs/1904.01557
 - Gervais et al., "MathWriting: A Dataset for Handwritten Mathematical Expression Recognition", arXiv:2404.10690. https://arxiv.org/abs/2404.10690
 
