@@ -7,7 +7,7 @@
 
 DATA-4380 Data Problems @ UTA
 
-See `src/` directory hw + projects if not in root directory.
+See `src/` directory for hw + projects if not in root directory.
 
 ---
 ## Citations & Acknowledgements
