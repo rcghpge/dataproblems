@@ -5,7 +5,8 @@
 [![pages-build-deployment](https://github.com/rcghpge/dataproblems/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rcghpge/dataproblems/actions/workflows/pages/pages-build-deployment)
 
 
-See `src/` directory hw + projects if not in root directory. Initial README draft.
+DATA-4380 Data Problems @ UTA
+See `src/` directory hw + projects if not in root directory.
 
 ---
 ## Citations & Acknowledgements
