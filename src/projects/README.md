@@ -4,14 +4,14 @@ Project Version and Annum
 
 ---
 
-# Tabular Submissions
+## Tabular Submissions
 
 See links for tabular build submissions:
 
 - Project #1: [version-tab](https://github.com/rcghpge/version-tab)
 - Project #2: [annum-tab](https://github.com/rcghpge/annum-tab)
 
-# Vision Submissions
+## Vision Submissions
 
 See links for vision build submissions:
 
