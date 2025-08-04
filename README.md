@@ -19,7 +19,7 @@ dataproblems/
 ├── Tabular/ # Tabular ML, data wrangling, modeling
 ├── Vision/ # Image-based projects or tasks
 ├── src/ # Projcts, homework assignments, data utilized for project builds 
-├── docs/ # cited research papers
+├── docs/ # class docs/notebooks and initial project development
 ├── pixi.toml 
 ├── LICENSE
 ├── CITATION.cff
