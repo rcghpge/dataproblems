@@ -16,4 +16,4 @@ See links for tabular build submissions:
 See links for vision build submissions:
 
 - Project: [version-cv](https://github.com/rcghpge/version-cv)
-- The Annum project no longer in development due to time constraints.
+- The Annum project is no longer in development due to time constraints.
