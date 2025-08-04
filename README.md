@@ -18,8 +18,8 @@ dataproblems/
 ├── Basics/ # Unix 101
 ├── Tabular/ # Tabular ML, data wrangling, modeling
 ├── Vision/ # Image-based projects or tasks
-├── src/ 
-├── docs/ 
+├── src/ # Projcts, homework assignments, data utilized for project builds 
+├── docs/ # cited research papers
 ├── pixi.toml 
 ├── LICENSE
 ├── CITATION.cff
