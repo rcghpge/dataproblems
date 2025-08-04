@@ -15,7 +15,7 @@ Includes work on tabular data, computer vision, and foundational data science pr
 
 ```
 dataproblems/
-├── Basics/ # UNIX 101
+├── Basics/ # Unix 101
 ├── Tabular/ # Tabular ML, data wrangling, modeling
 ├── Vision/ # Image-based projects or tasks
 ├── src/ 
