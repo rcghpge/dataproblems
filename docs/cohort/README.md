@@ -32,3 +32,4 @@ Hey cohort, I have compiled a list of software technologies hopefully that may b
 - [Pytesseract](https://pypi.org/project/pytesseract/) - A Python wrapper for Google’s Tesseract-OCR engine, used in data science to extract text from images for tasks like document processing, image annotation, and OCR-based data extraction.
 - [Triton](https://openai.com/index/triton/) - A Python-based programming language and compiler for writing high-performance GPU code with ease, often used in data science and deep learning to optimize custom kernels beyond standard libraries like PyTorch or TensorFlow.
 
+---
