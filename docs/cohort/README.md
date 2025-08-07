@@ -1,6 +1,6 @@
 # cohort
 
-Hey cohort, I have compiled a list of software technologies hopefully that may be of some use for the cohort maybe not so much for professor Farbin. They are listed below.
+Hey cohort, I have compiled a list of software technologies hopefully that may be of some use for the cohort - maybe not so much for professor Farbin. They are listed below.
 
 ---
 
