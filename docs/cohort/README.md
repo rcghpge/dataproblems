@@ -6,6 +6,7 @@ A list of software technologies hopefully that may be of some use for the cohort
 
 ## Resources
 
+- [Scientific Python](https://learn.scientific-python.org/) - A community-driven ecosystem of interoperable open-source libraries (like NumPy, SciPy, and Pandas) that form the foundation of scientific computing and data science in Python.
 - [YData](https://ydata.ai/) - A platform for synthetic data generation and quality profiling, used to improve training data for machine learning models, especially in imbalanced or sensitive datasets.
 - [FastAPI](https://fastapi.tiangolo.com/) - A high-performance Python web framework for building APIs quickly, often used to deploy machine learning models as RESTful endpoints.
 - [ArcGIS](https://www.esri.com/en-us/home) - A powerful geographic information system (GIS) platform used for spatial data analysis, mapping, and visualizing geospatial trends in data science projects.
