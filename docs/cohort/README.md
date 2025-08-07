@@ -31,5 +31,6 @@ A list of software technologies hopefully that may be of some use for the cohort
 - [OpenAI o1 + o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/) - A compact, cost-effective reasoning model in the o1 family optimized for coding and STEM tasks; its safety characteristics are documented alongside the main o1 model in the [system card (Dec 5, 2024)](https://openai.com/index/openai-o1-system-card/)
 - [Pytesseract](https://pypi.org/project/pytesseract/) - A Python wrapper for Google’s Tesseract-OCR engine, used in data science to extract text from images for tasks like document processing, image annotation, and OCR-based data extraction.
 - [Triton](https://openai.com/index/triton/) - A Python-based programming language and compiler for writing high-performance GPU code with ease, often used in data science and deep learning to optimize custom kernels beyond standard libraries like PyTorch or TensorFlow.
+- [Grok 1](https://x.ai/news/grok-os) - A frontier large language model developed by xAI (founded by Elon Musk), designed for reasoning and real-time information tasks, with open weights released for research and data science experimentation.
 
 ---
