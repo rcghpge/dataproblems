@@ -18,6 +18,7 @@ dataproblems/
 ├── Basics/ # Unix 101
 ├── Tabular/ # Tabular ML, data wrangling, modeling
 ├── Vision/ # Image-based projects or tasks
+├── LLM/ # LLM project
 ├── src/ # Projcts, homework assignments, data utilized for project builds 
 ├── docs/ # class docs/notebooks and initial project development
 ├── pixi.toml 
