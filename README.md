@@ -7,6 +7,7 @@
 
 
 GitHub repository for DATA 4380: Data Problems @ UTA. Summer 2025. 
+
 Includes work on tabular data, computer vision, and foundational data science problems with research-driven projects.
 
 ---
