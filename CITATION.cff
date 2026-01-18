@@ -4,7 +4,7 @@ title: "Data Problems"
 authors:
   - family-names: "Cocker"
     given-names: "Robert"
-version: "0.1.0"
+version: "0.2.0"
 date-released: "2025-06-04"
 url: "https://github.com/rcghpge/dataproblems"
 abstract: "A repository for solving data science and data engineering problems, including research and development for tabular data, NLP, computer vision, and LLM large language models."

@@ -3,7 +3,7 @@ authors = ["Robert Cocker <robert.cocker@mavs.uta.edu>"]
 channels = ["conda-forge", "https://conda.modular.com/max-nightly/"]
 name = "dataproblems"
 platforms = ["linux-64"]
-version = "0.1.0"
+version = "0.2.0"
 
 [tasks]
 
