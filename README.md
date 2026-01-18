@@ -16,15 +16,20 @@ Includes work on tabular data, computer vision, and foundational data science pr
 
 ```
 dataproblems/
+├── .github
 ├── Basics/ # Unix 101
+├── LLM/ # LLM project
 ├── Tabular/ # Tabular ML, data wrangling, modeling
 ├── Vision/ # Image-based projects or tasks
-├── LLM/ # LLM project
-├── src/ # Projcts, homework assignments, data utilized for project builds 
 ├── docs/ # class docs/notebooks and initial project development
-├── pixi.toml 
-├── LICENSE
+├── src/ # Projcts, homework assignments, data utilized for project builds 
+├── .gitattributes
+├── .gitignore
 ├── CITATION.cff
+├── LICENSE
+├── README.md
+├── pixi.lock
+├── pixi.toml 
 └── README.md
 ```
 
