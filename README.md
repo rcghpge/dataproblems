@@ -28,9 +28,8 @@ dataproblems/
 ├── CITATION.cff
 ├── LICENSE
 ├── README.md
-├── pixi.lock
-├── pixi.toml 
-└── README.md
+├── pixi.lock 
+└── pixi.toml
 ```
 
 ---
